@@ -1,0 +1,5 @@
+name: EuclideanPortals
+version: 1.0
+author: Rewu
+main: me.rewu.euclidean_portals.Main
+api-version: 1.19
